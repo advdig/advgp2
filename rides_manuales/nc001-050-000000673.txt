@@ -1,0 +1,5 @@
+!R!Estacion de Servicio Banos
+!RUC:          0102595295001
+RAZON SOCIAL: Claudio Vallejo
+DIRECCION:    Huayna Capac
+Obligado a llevar Contabilidad:NO

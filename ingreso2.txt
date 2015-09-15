@@ -1,0 +1,21 @@
+!Ticket de Ingreso    
+                 
+---------------------------------
+Ingreso de turno usuario: Juan Gonzalez
+Hora de Ingreso 03:05:39
+Fecha 2015-09-03
+M:1|  Monto:0.0|    Vol:0.0
+M:2|  Monto:0.0|    Vol:0.0
+M:3|  Monto:0.0|    Vol:0.0
+M:4|  Monto:0.0|    Vol:0.0
+                                 
+                                 
+
+
+
+
+
+
+
+
+i

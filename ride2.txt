@@ -1,0 +1,34 @@
+!R!Estacion de Servicio Ba|os
+!RUC:          0102595295001
+RAZON SOCIAL: Claudio Vallejo
+DIRECCION:    Huayna Capac
+Contribuyente Especial #: 0
+Obligado a llevar Contabilidad:NO
+Factura #:    001-001-000012792
+# de Autorizacion: 
+2212201410102601025952950010180084586
+Fecha y Hora Autorizacion:
+2014-12-22 10:10:19
+Ambiente:PruebasEmision:NORMAL
+Clave de Acceso:2212201401010259529500110010010000127921234567814
+Razon Social/Nombres y Apellidos:
+PEÑA VINTIMILLA JOSE RICARDO
+Ruc/CI: 0100000058001 Fecha Emision: 2014-12-22
+---------------------------------
+Cod Principal: 3
+Cantidad:      9.640
+Descripcion:   Diesel
+Precio Unitario:0.926
+Precio Total:  8.93
+---------------------------------
+Subtotal 12%: 8.93
+IVA 12%:      1.071
+Valor Total:  10.00
+---------------------------------
+AdvBox-Advangas  2829421 - 0999064457
+
+
+
+
+
+m

@@ -1,0 +1,34 @@
+!R!Estacion de Servicio Ba|os
+!RUC:          0102595295001
+RAZON SOCIAL: Claudio Vallejo
+DIRECCION:    Huayna Capac
+Contribuyente Especial #: 0
+Obligado a llevar Contabilidad:NO
+Factura #:    001-001-000012794
+# de Autorizacion: 
+2212201411380801025952950010180283269
+Fecha y Hora Autorizacion:
+2014-12-22 11:38:05
+Ambiente:PruebasEmision:NORMAL
+Clave de Acceso:2212201401010259529500110010010000127941234567815
+Razon Social/Nombres y Apellidos:
+PEÑA VINTIMILLA JOSE RICARDO
+Ruc/CI: 0100000058001 Fecha Emision: 2014-12-22
+---------------------------------
+Cod Principal: 1
+Cantidad:      3.380
+Descripcion:   Extra
+Precio Unitario:1.320
+Precio Total:  4.46
+---------------------------------
+Subtotal 12%: 4.46
+IVA 12%:      0.536
+Valor Total:  5.00
+---------------------------------
+AdvBox-Advangas  2829421 - 0999064457
+
+
+
+
+
+m

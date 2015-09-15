@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>1</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>Comercial Palacios Reyes cia.ltda</razonSocial>
+        <nombreComercial>ESTACION DE SERVICIO GAPAL</nombreComercial>
+        <ruc>0190158802001</ruc>
+        <claveAcceso>0409201501019015880200110010510000003461234567818</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>051</ptoEmi>
+        <secuencial>000000346</secuencial>
+        <dirMatriz>Av.24 de Mayo s/n y Cajabamba</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>04/09/2015</fechaEmision>
+        <dirEstablecimiento>Av.24 de Mayo s/n y Cajabamba</dirEstablecimiento>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>JUAN GONZALEZ</razonSocialComprador>
+        <identificacionComprador>0106520331</identificacionComprador>
+        <totalSinImpuestos>264.29</totalSinImpuestos>
+        <totalDescuento>0.0</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>2</codigoPorcentaje>
+                <baseImponible>264.29</baseImponible>
+                <valor>31.71</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.0</propina>
+        <importeTotal>296.0</importeTotal>
+        <moneda>Dolar</moneda>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>1</codigoPrincipal>
+            <codigoAuxiliar>1</codigoAuxiliar>
+            <descripcion>Extra</descripcion>
+            <cantidad>200.0</cantidad>
+            <precioUnitario>1.321429</precioUnitario>
+            <descuento>0.0</descuento>
+            <precioTotalSinImpuesto>264.29</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>264.29</baseImponible>
+                    <valor>31.71</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Imprime">Advadvantech</campoAdicional>
+    </infoAdicional>
+</factura>

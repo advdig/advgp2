@@ -1,0 +1,39 @@
+!Ticket de Salida    
+                 
+Numero:5
+---------------------------------
+Salida de turno usuario:
+
+Hora de Salida 09:28:47
+
+Fecha 2015-08-25
+-------------------------------
+Monto Total Extra: 0.0
+Volumen Total Extra: 0.0
+-------------------------------
+Monto Total Super: 0.0
+Volumen Total Super: 0.0
+-------------------------------
+Monto Total Diesel: 0.0
+Volumen Total Diesel: 0.0
+-------------------------------
+Monto Total Turno: 0.0
+Volumen Total Turno : 0.0
+-------------------------------
+Detalle de Pagares
+Total de Pagares Emitidos :0
+-------------------------------
+Detalle de Facturas
+                                  
+                                   
+Cantidad de Dinero Entregado:      
+Cantidad de Dinero Faltante:       
+
+
+
+
+
+
+
+
+i

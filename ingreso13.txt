@@ -1,0 +1,21 @@
+!Ticket de Ingreso    
+                 
+---------------------------------
+Ingreso de turno usuario: juan torres jara
+Hora de Ingreso 10:45:20
+Fecha 2015-08-25
+M:1|  Monto:0.0|    Vol:0.0
+M:2|  Monto:0.0|    Vol:0.0
+M:3|  Monto:0.0|    Vol:0.0
+M:4|  Monto:0.0|    Vol:0.0
+                                 
+                                 
+
+
+
+
+
+
+
+
+i

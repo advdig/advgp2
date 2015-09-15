@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>1</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>Claudio Vallejo</razonSocial>
+        <nombreComercial>Estacion de Servicio Banos</nombreComercial>
+        <ruc>0102595295001</ruc>
+        <claveAcceso>2017083101010259529500110010510000003851234567811</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>051</ptoEmi>
+        <secuencial>000000385</secuencial>
+        <dirMatriz>Huayna Capac</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>2017/08/31</fechaEmision>
+        <dirEstablecimiento>Huayna Capac</dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <razonSocialComprador>GONZALEZ JARA JUAN ANDRES</razonSocialComprador>
+        <identificacionComprador>05</identificacionComprador>
+        <totalSinImpuestos>29.78</totalSinImpuestos>
+        <totalDescuento>0.0</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>2</codigoPorcentaje>
+                <baseImponible>29.78</baseImponible>
+                <valor>3.57</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.0</propina>
+        <importeTotal>33.35</importeTotal>
+        <moneda>Dolar</moneda>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>2</codigoPrincipal>
+            <codigoAuxiliar>2</codigoAuxiliar>
+            <descripcion>Super</descripcion>
+            <cantidad>15.24</cantidad>
+            <precioUnitario>1.954464</precioUnitario>
+            <descuento>0.0</descuento>
+            <precioTotalSinImpuesto>29.78</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>29.78</baseImponible>
+                    <valor>3.57</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Imprime">Advadvantech</campoAdicional>
+    </infoAdicional>
+</factura>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<notaCredito id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>1</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>Claudio Vallejo</razonSocial>
+        <nombreComercial>Estacion de Servicio Choferes</nombreComercial>
+        <ruc>0102595295001</ruc>
+        <claveAcceso>0409201504010259529500110010500000006941234567810</claveAcceso>
+        <codDoc>04</codDoc>
+        <estab>001</estab>
+        <ptoEmi>050</ptoEmi>
+        <secuencial>000000694</secuencial>
+        <dirMatriz>Huayna Capac y Alfonso Jerves</dirMatriz>
+    </infoTributaria>
+    <infoNotaCredito>
+        <fechaEmision>04/09/2015</fechaEmision>
+        <dirEstablecimiento>Huayna Capac y Alfonso Jerves</dirEstablecimiento>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>GONZALEZ JARA JUAN ANDRES</razonSocialComprador>
+        <identificacionComprador>0106520331</identificacionComprador>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <codDocModificado>01</codDocModificado>
+        <numDocModificado>001-051-000000011</numDocModificado>
+        <fechaEmisionDocSustento>04/09/2015</fechaEmisionDocSustento>
+        <totalSinImpuestos>528.58</totalSinImpuestos>
+        <valorModificacion>592.0</valorModificacion>
+        <moneda>Dolar</moneda>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>2</codigoPorcentaje>
+                <baseImponible>528.58</baseImponible>
+                <valor>63.42</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <motivo>ANULACION</motivo>
+    </infoNotaCredito>
+    <detalles>
+        <detalle>
+            <codigoInterno>1</codigoInterno>
+            <codigoAdicional>1</codigoAdicional>
+            <descripcion>Extra</descripcion>
+            <cantidad>200.0</cantidad>
+            <precioUnitario>1.32</precioUnitario>
+            <descuento>0.0</descuento>
+            <precioTotalSinImpuesto>264.29</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>264.29</baseImponible>
+                    <valor>31.71</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoInterno>1</codigoInterno>
+            <codigoAdicional>1</codigoAdicional>
+            <descripcion>otros</descripcion>
+            <cantidad>200.0</cantidad>
+            <precioUnitario>0.0</precioUnitario>
+            <descuento>0.0</descuento>
+            <precioTotalSinImpuesto>264.29</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>264.29</baseImponible>
+                    <valor>31.71</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Imprime">Advadvantech</campoAdicional>
+    </infoAdicional>
+</notaCredito>

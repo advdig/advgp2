@@ -1,0 +1,43 @@
+!R!ESTACION DE SERVICIO GAPAL
+!COMERCIAL PALACIOS REYES CIA.LTDA
+RUC:          0190158802001
+Av.24 de Mayo s/n y Cajabamba
+Obligado a llevar Contabilidad:SI
+---------------------------------
+Factura #:    001-051-000000348
+Cliente: JUAN GONZALEZ
+Ruc/CI: 0106520331  Codigo: 
+Fecha: 2015-09-04 Hora Emision: 17:31:48
+---------------------------------
+Cod Principal:  1
+Manguera:       0
+Cantidad:       200.0000gls
+Descripcion:    Extra
+Precio Unitario:1,3214
+Subtotal       :264.2900
+---------------------------------
+Subtotal 12%: 264.29
+IVA 12%:      31.71
+Valor Total:  296.00
+---------------------------------
+Clave de Acceso: 
+0409201501019015880200110010510000003481234567819
+AMBIENTE:PRUEBAS
+EMISION:NORMAL
+---------------------------------
+    SISTEMA ADV-BOX -ADVANTECH
+       2829421 - 0999064457
+DESCARGAR FACTURA AUTORIZADA 
+EN LAS PROXIMAS 24 HORAS 
+DE www.advangas.com
+CONSULTE SU VALIDEZ EN 
+http://www.tinyurl.com/sridocs
+                                     
+                                     
+                                     
+
+
+
+
+
+i

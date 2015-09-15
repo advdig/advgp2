@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<notaCredito id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>1</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>Comercial Palacios Reyes cia.ltda</razonSocial>
+        <nombreComercial>ESTACION DE SERVICIO GAPAL</nombreComercial>
+        <ruc>0190158802001</ruc>
+        <claveAcceso>0409201504019015880200110010500000004091234567810</claveAcceso>
+        <codDoc>04</codDoc>
+        <estab>001</estab>
+        <ptoEmi>050</ptoEmi>
+        <secuencial>000000409</secuencial>
+        <dirMatriz>Av.24 de Mayo s/n y Cajabamba</dirMatriz>
+    </infoTributaria>
+    <infoNotaCredito>
+        <fechaEmision>04/09/2015</fechaEmision>
+        <dirEstablecimiento>Av.24 de Mayo s/n y Cajabamba</dirEstablecimiento>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>VINTIMILLA MARIN JAIME RENATO</razonSocialComprador>
+        <identificacionComprador>0100031764001</identificacionComprador>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <codDocModificado>01</codDocModificado>
+        <numDocModificado>001-050-000354083</numDocModificado>
+        <fechaEmisionDocSustento>04/09/2015</fechaEmisionDocSustento>
+        <totalSinImpuestos>8.93</totalSinImpuestos>
+        <valorModificacion>10.0</valorModificacion>
+        <moneda>Dolar</moneda>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>2</codigoPorcentaje>
+                <baseImponible>8.93</baseImponible>
+                <valor>1.07</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <motivo>ANULACION</motivo>
+    </infoNotaCredito>
+    <detalles>
+        <detalle>
+            <codigoInterno>1</codigoInterno>
+            <codigoAdicional>1</codigoAdicional>
+            <descripcion>Extra</descripcion>
+            <cantidad>6.76</cantidad>
+            <precioUnitario>1.32</precioUnitario>
+            <descuento>0.0</descuento>
+            <precioTotalSinImpuesto>8.93</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>8.93</baseImponible>
+                    <valor>1.07</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Imprime">Advadvantech</campoAdicional>
+    </infoAdicional>
+</notaCredito>

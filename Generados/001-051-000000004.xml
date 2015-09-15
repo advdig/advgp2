@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>1</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>Claudio Vallejo</razonSocial>
+        <nombreComercial>Estacion de Servicio Banos</nombreComercial>
+        <ruc>0102595295001</ruc>
+        <claveAcceso>2404201501010259529500110010510000000041234567812</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>051</ptoEmi>
+        <secuencial>000000004</secuencial>
+        <dirMatriz>Huayna Capac</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>24/04/2015</fechaEmision>
+        <dirEstablecimiento>Huayna Capac</dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>GONZALEZ JARA JUAN ANDRES</razonSocialComprador>
+        <identificacionComprador>0106520331</identificacionComprador>
+        <totalSinImpuestos>9946.43</totalSinImpuestos>
+        <totalDescuento>0.0</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>2</codigoPorcentaje>
+                <baseImponible>9946.43</baseImponible>
+                <valor>1193.57</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.0</propina>
+        <importeTotal>11140.0</importeTotal>
+        <moneda>Dolar</moneda>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>1</codigoPrincipal>
+            <codigoAuxiliar>1</codigoAuxiliar>
+            <descripcion>Extra</descripcion>
+            <cantidad>2000.0</cantidad>
+            <precioUnitario>1.321429</precioUnitario>
+            <descuento>0.0</descuento>
+            <precioTotalSinImpuesto>2642.86</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>2642.86</baseImponible>
+                    <valor>317.14</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>2</codigoPrincipal>
+            <codigoAuxiliar>2</codigoAuxiliar>
+            <descripcion>Super</descripcion>
+            <cantidad>3500.0</cantidad>
+            <precioUnitario>1.954464</precioUnitario>
+            <descuento>0.0</descuento>
+            <precioTotalSinImpuesto>6840.62</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>6840.62</baseImponible>
+                    <valor>820.88</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>3</codigoPrincipal>
+            <codigoAuxiliar>3</codigoAuxiliar>
+            <descripcion>Diesel</descripcion>
+            <cantidad>500.0</cantidad>
+            <precioUnitario>0.925893</precioUnitario>
+            <descuento>0.0</descuento>
+            <precioTotalSinImpuesto>462.95</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>462.95</baseImponible>
+                    <valor>55.55</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Imprime">Advadvantech</campoAdicional>
+    </infoAdicional>
+</factura>

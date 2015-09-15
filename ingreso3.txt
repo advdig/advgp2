@@ -1,0 +1,41 @@
+!Ticket de Salida   
+                 
+---------------------------------
+Ingreso de turno usuario: advgas
+Hora de Ingreso 16:26:25
+Fecha 2015-08-26
+M:1|  Monto:0.0|    Vol:0.0
+M:2|  Monto:0.0|    Vol:0.0
+M:3|  Monto:0.0|    Vol:0.0
+M:4|  Monto:0.0|    Vol:0.0
+M:5|  Monto:0.0|    Vol:0.0
+M:6|  Monto:0.0|    Vol:0.0
+M:7|  Monto:0.0|    Vol:0.0
+M:8|  Monto:0.0|    Vol:0.0
+M:9|  Monto:0.0|    Vol:0.0
+M:10|  Monto:0.0|    Vol:0.0
+M:11|  Monto:0.0|    Vol:0.0
+M:12|  Monto:0.0|    Vol:0.0
+M:13|  Monto:0.0|    Vol:0.0
+M:14|  Monto:0.0|    Vol:0.0
+M:15|  Monto:0.0|    Vol:0.0
+M:16|  Monto:0.0|    Vol:0.0
+M:17|  Monto:0.0|    Vol:0.0
+M:18|  Monto:0.0|    Vol:0.0
+M:19|  Monto:0.0|    Vol:0.0
+M:20|  Monto:0.0|    Vol:0.0
+M:21|  Monto:0.0|    Vol:0.0
+M:22|  Monto:0.0|    Vol:0.0
+M:23|  Monto:0.0|    Vol:0.0
+M:24|  Monto:0.0|    Vol:0.0
+                                 
+                                 
+
+
+
+
+
+
+
+
+i

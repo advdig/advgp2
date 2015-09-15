@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>1</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>Claudio Vallejo</razonSocial>
+        <nombreComercial>Estacion de Servicio Banos</nombreComercial>
+        <ruc>0102595295001</ruc>
+        <claveAcceso>2204201501010259529500110010520000000871234567814</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>052</ptoEmi>
+        <secuencial>000000087</secuencial>
+        <dirMatriz>Huayna Capac</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>22/04/2015</fechaEmision>
+        <dirEstablecimiento>Huayna Capac</dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>TORRES ARGUDO JUAN DIEGO</razonSocialComprador>
+        <identificacionComprador>0105777932</identificacionComprador>
+        <totalSinImpuestos>45.98</totalSinImpuestos>
+        <totalDescuento>0.0</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>2</codigoPorcentaje>
+                <baseImponible>45.98</baseImponible>
+                <valor>5.52</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.0</propina>
+        <importeTotal>51.5</importeTotal>
+        <moneda>Dolar</moneda>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>22</codigoPrincipal>
+            <codigoAuxiliar>22</codigoAuxiliar>
+            <descripcion>articolo5</descripcion>
+            <cantidad>3.0</cantidad>
+            <precioUnitario>9.375</precioUnitario>
+            <descuento>0.0</descuento>
+            <precioTotalSinImpuesto>28.12</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>28.12</baseImponible>
+                    <valor>3.38</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>24</codigoPrincipal>
+            <codigoAuxiliar>24</codigoAuxiliar>
+            <descripcion>articulo50</descripcion>
+            <cantidad>2.0</cantidad>
+            <precioUnitario>8.928571</precioUnitario>
+            <descuento>0.0</descuento>
+            <precioTotalSinImpuesto>17.86</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>17.86</baseImponible>
+                    <valor>2.14</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Imprime">Advadvantech</campoAdicional>
+    </infoAdicional>
+</factura>

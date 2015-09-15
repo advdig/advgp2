@@ -1,0 +1,54 @@
+!R!Estacion de Servicio Banos
+!RUC:          0102595295001
+RAZON SOCIAL: Claudio Vallejo
+DIRECCION:    Huayna Capac
+Obligado a llevar Contabilidad:NO
+Nota de Credito #:    2015-03-09
+# de Autorizacion: 
+001-050-000000649
+Fecha  Autorizacion: 16:36:56
+Clave de Acceso:
+0903201501010259529500110010510000004661234567814
+Razon Social/Nombres y Apellidos:
+GONZALEZ JARA JUAN ANDRES
+Ruc/CI: 0106520331
+Fecha Emision: 16:36:56
+-------------------
+Cod Principal: 1
+Descripcion: Extra
+Precio Unitario: 1.32
+Cantidad: 2.0000
+Subtotal: 2.6400
+IVA: 0.320
+-------------------
+Cod Principal: 2
+Descripcion: Super
+Precio Unitario: 1.95
+Cantidad: 3.0000
+Subtotal: 5.8600
+IVA: 0.700
+-------------------
+Cod Principal: 3
+Descripcion: Diesel
+Precio Unitario: 0.93
+Cantidad: 2.0000
+Subtotal: 1.8500
+IVA: 0.220
+-------------------
+Iva: 001-051-000000466
+Subtotal: 11.60
+Total 1.240
+Nota de Credito a la factura #: 
+001-051-000000466
+-------------------
+       SISTEMA ADV-BOX -ADVANTECH     
+           2829421 - 0999064457      
+
+
+
+
+
+
+
+
+i

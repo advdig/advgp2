@@ -1,0 +1,48 @@
+!R!Estacion de Servicio Ba|os
+!RUC:          0102595295001
+RAZON SOCIAL: Claudio Vallejo
+DIRECCION:    Huayna Capac
+Contribuyente Especial #: 0
+Obligado a llevar Contabilidad:NO
+Factura #:    001-001-000012786
+# de Autorizacion: 
+1212201409530901025952950010164059480
+Fecha y Hora Autorizacion:
+2014-12-12 09:53:17
+Ambiente:     Pruebas
+Emision:      NORMAL
+Clave de Acceso:
+1212201401010259529500110010010000127861234567818
+Razon Social/Nombres y Apellidos:
+GONZALEZ JARA JUAN ANDRES
+Ruc/CI: 0106520331
+Fecha Emision: 2014-12-12
+---------------------------------
+Cod Principal: 1
+Cantidad:      5.000
+Descripcion:   Extra
+Precio Unitario:1.322
+Precio Total:  6.61
+---------------------------------
+Subtotal 12%: 6.61
+Subtotal 0%:  0
+Subtotal No objeto de Iva:0
+Subtotal sin impuestos:6.61
+Descuento:    0
+ICE           0
+IVA 12%:      0.793
+Propina:      0
+Valor Total:  7.40
+---------------------------------
+    AdvBox-Advangas       
+    2829421 - 0999064457      
+    Huayna-Capac  3-35     
+
+
+
+
+
+
+
+
+m

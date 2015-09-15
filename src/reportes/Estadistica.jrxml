@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="report name" pageWidth="595" pageHeight="842" columnWidth="535" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="13e8baac-fd1f-454b-b58d-82ae452230cc">
+	<property name="ireport.zoom" value="1.5"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<parameter name="fechai" class="java.lang.String">
+		<defaultValueExpression><![CDATA[]]></defaultValueExpression>
+	</parameter>
+	<parameter name="fechaf" class="java.lang.String">
+		<defaultValueExpression><![CDATA[]]></defaultValueExpression>
+	</parameter>
+	<queryString>
+		<![CDATA[SELECT
+     nota_credito_detalle.`iva` AS nota_credito_detalle_iva,
+     punto_emision.`s2` AS punto_emision_s2,
+     factura.`numero` AS factura_numero,
+     clave_acceso.`clave_acceso` AS clave_acceso_clave_acceso,
+     cliente.`cedula_ruc` AS cliente_cedula_ruc,
+     usuarios.`usuario` AS usuarios_usuario,
+     nota_credito.`autorizacion` AS nota_credito_autorizacion,
+     nota_credito.`numero` AS nota_credito_numero,
+     nota_credito.`fecha` AS nota_credito_fecha,
+     nota_credito.`hora` AS nota_credito_hora,
+     nota_credito.`subtotal` AS nota_credito_subtotal,
+     nota_credito.`valor_modificacion` AS nota_credito_valor_modificacion,
+     nota_credito.`iva` AS nota_credito_iva,
+     nota_credito_detalle.`cantidad` AS nota_credito_detalle_cantidad,
+     nota_credito_detalle.`subtotal` AS nota_credito_detalle_subtotal,
+     nota_credito_detalle.`total` AS nota_credito_detalle_total
+FROM
+     `nota_credito` nota_credito INNER JOIN `nota_credito_detalle` nota_credito_detalle ON nota_credito.`idnota_credito` = nota_credito_detalle.`nota_credito_idnota_credito`
+     INNER JOIN `clave_acceso` clave_acceso ON nota_credito.`clave_acceso_idclave_acceso` = clave_acceso.`idclave_acceso`
+     INNER JOIN `factura` factura ON nota_credito.`factura_idfactura` = factura.`idfactura`
+     INNER JOIN `punto_emision` punto_emision ON nota_credito.`punto_emision_idpunto_emision` = punto_emision.`idpunto_emision`
+     INNER JOIN `usuarios` usuarios ON nota_credito.`usuarios_idusuarios` = usuarios.`idusuarios`
+     AND usuarios.`idusuarios` = factura.`usuarios_idusuarios`
+     INNER JOIN `cliente` cliente ON factura.`cliente_idcliente` = cliente.`idcliente`]]>
+	</queryString>
+	<field name="nota_credito_detalle_iva" class="java.math.BigDecimal"/>
+	<field name="punto_emision_s2" class="java.lang.String"/>
+	<field name="factura_numero" class="java.lang.String"/>
+	<field name="clave_acceso_clave_acceso" class="java.lang.String"/>
+	<field name="cliente_cedula_ruc" class="java.lang.String"/>
+	<field name="usuarios_usuario" class="java.lang.String"/>
+	<field name="nota_credito_autorizacion" class="java.lang.String"/>
+	<field name="nota_credito_numero" class="java.lang.String"/>
+	<field name="nota_credito_fecha" class="java.sql.Date"/>
+	<field name="nota_credito_hora" class="java.sql.Time"/>
+	<field name="nota_credito_subtotal" class="java.math.BigDecimal"/>
+	<field name="nota_credito_valor_modificacion" class="java.math.BigDecimal"/>
+	<field name="nota_credito_iva" class="java.math.BigDecimal"/>
+	<field name="nota_credito_detalle_cantidad" class="java.math.BigDecimal"/>
+	<field name="nota_credito_detalle_subtotal" class="java.math.BigDecimal"/>
+	<field name="nota_credito_detalle_total" class="java.math.BigDecimal"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="25" splitType="Stretch">
+			<staticText>
+				<reportElement uuid="511098f2-d258-4d99-9521-d477184630bc" x="142" y="0" width="287" height="25"/>
+				<textElement>
+					<font size="18" isBold="true"/>
+				</textElement>
+				<text><![CDATA[REPORTES DE VENTAS]]></text>
+			</staticText>
+		</band>
+	</title>
+	<columnFooter>
+		<band height="723" splitType="Stretch">
+			<lineChart>
+				<chart>
+					<reportElement uuid="4d5b301a-ec08-4561-91e1-252613e25f84" x="30" y="16" width="508" height="312"/>
+					<chartTitle/>
+					<chartSubtitle/>
+					<chartLegend/>
+				</chart>
+				<categoryDataset>
+					<categorySeries>
+						<seriesExpression><![CDATA[$P{fechai}]]></seriesExpression>
+						<categoryExpression><![CDATA[$F{DATE_FORMAT(hora,'%H'":00")}]]></categoryExpression>
+						<valueExpression><![CDATA[$F{sum(total)}]]></valueExpression>
+					</categorySeries>
+				</categoryDataset>
+				<linePlot>
+					<plot/>
+					<categoryAxisFormat>
+						<axisFormat/>
+					</categoryAxisFormat>
+					<valueAxisFormat>
+						<axisFormat/>
+					</valueAxisFormat>
+				</linePlot>
+			</lineChart>
+		</band>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>

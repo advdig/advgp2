@@ -1,0 +1,43 @@
+!R!Estacion de Servicio Choferes
+!CLAUDIO VALLEJO
+RUC:          0102595295001
+Huayna Capac y Alfonso Jerves
+Obligado a llevar Contabilidad:NO
+---------------------------------
+Factura #:    001-052-000000059
+Cliente: GONZALEZ JARA JUAN ANDRES
+Ruc/CI: 0106520331  Codigo:ABD1310
+Fecha: 2015-09-04 Hora Emision: 14:24:48
+---------------------------------
+Cod Principal:  22
+Manguera:       0
+Cantidad:       5
+Descripcion:    articulo5
+Precio Unitario:9,375
+Subtotal       :46.8700
+---------------------------------
+Subtotal 12%: 46.87
+IVA 12%:      5.63
+Valor Total:  52.50
+---------------------------------
+Clave de Acceso: 
+0409201501010259529500110010520000000591234567815
+AMBIENTE:PRUEBAS
+EMISION:NORMAL
+---------------------------------
+    SISTEMA ADV-BOX -ADVANTECH
+       2829421 - 0999064457
+DESCARGAR FACTURA AUTORIZADA 
+EN LAS PROXIMAS 24 HORAS 
+DE www.edsbanos.com
+CONSULTE SU VALIDEZ EN 
+http://www.tinyurl.com/sridocs
+                                     
+                                     
+                                     
+
+
+
+
+
+i

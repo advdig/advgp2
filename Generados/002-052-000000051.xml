@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>1</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>Claudio Vallejo</razonSocial>
+        <nombreComercial>Estacion de Servicio Banos</nombreComercial>
+        <ruc>0102595295001</ruc>
+        <claveAcceso>2505201501010259529500110020520000000511234567813</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>002</estab>
+        <ptoEmi>052</ptoEmi>
+        <secuencial>000000051</secuencial>
+        <dirMatriz>Huayna Capac</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>25/05/2015</fechaEmision>
+        <dirEstablecimiento>Huayna Capac</dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>VALLEJO PINTADO VICTOR CLAUDIO</razonSocialComprador>
+        <identificacionComprador>0102595295001</identificacionComprador>
+        <totalSinImpuestos>1806.25</totalSinImpuestos>
+        <totalDescuento>0.0</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>2</codigoPorcentaje>
+                <baseImponible>1806.25</baseImponible>
+                <valor>216.75</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.0</propina>
+        <importeTotal>2023.0</importeTotal>
+        <moneda>Dolar</moneda>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>24</codigoPrincipal>
+            <codigoAuxiliar>24</codigoAuxiliar>
+            <descripcion>articulo50</descripcion>
+            <cantidad>2.0</cantidad>
+            <precioUnitario>10.5</precioUnitario>
+            <descuento>0.0</descuento>
+            <precioTotalSinImpuesto>18.75</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>18.75</baseImponible>
+                    <valor>2.25</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>30</codigoPrincipal>
+            <codigoAuxiliar>30</codigoAuxiliar>
+            <descripcion>celular</descripcion>
+            <cantidad>2.0</cantidad>
+            <precioUnitario>1000.0</precioUnitario>
+            <descuento>0.0</descuento>
+            <precioTotalSinImpuesto>1785.71</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>1785.71</baseImponible>
+                    <valor>214.29</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>113</codigoPrincipal>
+            <codigoAuxiliar>113</codigoAuxiliar>
+            <descripcion>maxter 40</descripcion>
+            <cantidad>2.0</cantidad>
+            <precioUnitario>1.0</precioUnitario>
+            <descuento>0.0</descuento>
+            <precioTotalSinImpuesto>1.79</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>1.79</baseImponible>
+                    <valor>0.21</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Imprime">Advadvantech</campoAdicional>
+    </infoAdicional>
+</factura>
